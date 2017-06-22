@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: elif
+# key: elif
+如何yasnippet写批量注释或多行注释？
+http://joaotavora.github.io/yasnippet/snippet-development.html
+# --
+elif [ $0 ]; then

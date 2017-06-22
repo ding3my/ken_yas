@@ -1,0 +1,7 @@
+# key: fori
+# name: fori
+# --
+for ((i=$1; i<=$2; i++))
+do
+    $0
+done

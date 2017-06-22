@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: liberator.execute("");
+# key: libe
+# --
+liberator.execute("");

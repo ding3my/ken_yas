@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: sh
+# key: sh
+# --
+#!/usr/bin/env bash
+$0
